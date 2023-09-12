@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.portfolio {
+  width: 32%;
+  height: 100%;
+  padding: 0;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background-color: palegoldenrod;
+  border-radius: 10px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.portfolio h1 {
+  width: 100%;
+  padding: 5px 0;
+  border-radius: 10px 10px 0 0;
+  margin: 0;
+  background-color: black;
+  color: white;
+  font-size: 1.2em;
+}
