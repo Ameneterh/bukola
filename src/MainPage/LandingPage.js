@@ -3,6 +3,7 @@ import Interests from "../CommonResources/Interests";
 import pharmacist from "../CommonResources/images/pharma.jpeg";
 import tailor from "../CommonResources/images/tailor.jpeg";
 import datanalyst from "../CommonResources/images/datanalyis.jpeg";
+import bukola from "../CommonResources/images/bukola-headshot.jpg";
 import Header from "../Navigation/Header";
 import SocialMedia from "../CommonResources/SocialMedia";
 
@@ -21,7 +22,7 @@ export default function LandingPage(props) {
           </p>
           <p className="text-lg sm:text-3xl font-bold text-slate-200">I am</p>
 
-          <h1 className="text-lg sm:text-6xl font-bold text-white pb-5">
+          <h1 className="text-lg sm:text-6xl font-bold text-white pb-2 sm:pb-5">
             ADEWUSI, Adedoyin Bukola
           </h1>
           <div className="w-full sm:w-full h-1/2 sm:h-60 flex flex-col sm:flex-row gap-4">
@@ -39,9 +40,10 @@ export default function LandingPage(props) {
             <SocialMedia />
           </div>
         </div>
-        <div className="w-96 sm:w-2/6 h-96 sm:h-2/3 bg-slate-100 rounded-full">
-          <div></div>
-        </div>
+        <div
+          className="w-80 sm:w-2/6 h-80 sm:h-2/3 bg-slate-100 rounded-full bg-center bg-contain sm:bg-cover bg-no-repeat bg-origin-border shadow-[inset_0_-2px_6px_6px_rgba(255,255,255,0.6)]"
+          style={{ backgroundImage: `url(${bukola})` }}
+        ></div>
       </div>
     </div>
   );
