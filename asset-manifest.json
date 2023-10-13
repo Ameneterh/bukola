@@ -1,19 +1,17 @@
 {
   "files": {
     "main.css": "/bukola/static/css/main.9b825aab.css",
-    "main.js": "/bukola/static/js/main.c0b044e8.js",
-    "static/js/787.4fad6a8e.chunk.js": "/bukola/static/js/787.4fad6a8e.chunk.js",
-    "static/media/bukola-headshot.jpg": "/bukola/static/media/bukola-headshot.75764efb42176e00d4dc.jpg",
+    "main.js": "/bukola/static/js/main.629f1af9.js",
     "static/media/pharma.jpeg": "/bukola/static/media/pharma.a21f9339f7fd5653f206.jpeg",
     "static/media/datanalyis.jpeg": "/bukola/static/media/datanalyis.40c07b7e84fed8d4e195.jpeg",
     "static/media/tailor.jpeg": "/bukola/static/media/tailor.3af2f3fc0bcd2a0921c9.jpeg",
+    "static/media/bukola-headshot.jpg": "/bukola/static/media/bukola-headshot.e48e7966eb41fe44d2da.jpg",
     "index.html": "/bukola/index.html",
     "main.9b825aab.css.map": "/bukola/static/css/main.9b825aab.css.map",
-    "main.c0b044e8.js.map": "/bukola/static/js/main.c0b044e8.js.map",
-    "787.4fad6a8e.chunk.js.map": "/bukola/static/js/787.4fad6a8e.chunk.js.map"
+    "main.629f1af9.js.map": "/bukola/static/js/main.629f1af9.js.map"
   },
   "entrypoints": [
     "static/css/main.9b825aab.css",
-    "static/js/main.c0b044e8.js"
+    "static/js/main.629f1af9.js"
   ]
 }
