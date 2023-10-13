@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bukola/static/css/main.9b825aab.css",
-    "main.js": "/bukola/static/js/main.5a2026ec.js",
+    "main.js": "/bukola/static/js/main.c0b044e8.js",
     "static/js/787.4fad6a8e.chunk.js": "/bukola/static/js/787.4fad6a8e.chunk.js",
     "static/media/bukola-headshot.jpg": "/bukola/static/media/bukola-headshot.75764efb42176e00d4dc.jpg",
     "static/media/pharma.jpeg": "/bukola/static/media/pharma.a21f9339f7fd5653f206.jpeg",
@@ -9,11 +9,11 @@
     "static/media/tailor.jpeg": "/bukola/static/media/tailor.3af2f3fc0bcd2a0921c9.jpeg",
     "index.html": "/bukola/index.html",
     "main.9b825aab.css.map": "/bukola/static/css/main.9b825aab.css.map",
-    "main.5a2026ec.js.map": "/bukola/static/js/main.5a2026ec.js.map",
+    "main.c0b044e8.js.map": "/bukola/static/js/main.c0b044e8.js.map",
     "787.4fad6a8e.chunk.js.map": "/bukola/static/js/787.4fad6a8e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b825aab.css",
-    "static/js/main.5a2026ec.js"
+    "static/js/main.c0b044e8.js"
   ]
 }
